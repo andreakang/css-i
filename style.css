@@ -1,6 +1,9 @@
 /*CSS Style Document*/
 
 p{color:red;font-size:12px;}
-img{height:500px;width:600px}
-h1{font-family:Arial;font-size:50px}
-ul{list-style-type:square}
+img{height:500px;width:600px;}
+h1{font-family:Arial;font-size:50px;}
+ul{list-style-type:square;}
+#not-red{color:blue;font-size:12px;}
+#cat{height:900px;width:1000px;}
+blockquote{font-family:Arial}
